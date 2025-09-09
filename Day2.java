@@ -5,8 +5,8 @@ public class RizaldiD0225009 {
         System.out.println("Umur saya 17 tahun ");
         System.out.println();
         System.out.print("Nama saya Rizaldi");
-        System.out.print("Prodi Informatika");
-        System.out.print("Umur saya 17 tahun");
+        System.out.print(" Prodi Informatika");
+        System.out.print(" Umur saya 17 tahun");
         System.out.println();
         System.out.printf("\nNama saya %s %nUmur %d %nProdi %s ","Rizaldi",17,"Informatika");
         

@@ -1,20 +1,15 @@
 public class RizaldiD0225009 {  
     public static void main(String[] args) {
-        //Memahami dan tau cara penggunaan komentar.
-        //Println di gunakan untuk mencetak teks ke layar untuk setiap baris
-        System.out.println("Nama saya Rizaldi");
-        System.out.println("Prodi Informatika ");
-        System.out.println("Umur saya 18 tahun ");
-        System.out.println();
-        //Print diguankan untuk mencetak teks ke layar tanpa membuat baris baru
-        // atau tanpa berpindah ke baris baru
-        System.out.print("Nama saya Rizaldi");
-        System.out.print(", Prodi Informatika");
-        System.out.print(", Umur saya 18 tahun.");
-        System.out.println();
-        //Printf digunakan untuk mencetak teks dengan format tertentu, contohnya yaitu format (%s) untuk String dan (%d) untuk Integer
-        System.out.printf("\nNama saya %s %nUmur %d %nProdi Informatika  ","Rizaldi",18,"Informatika");
+       String nama,asal,prodi;
+       nama = "Rizaldi";
+       asal = "Pasangkayu";
+       prodi = "Informatika";
+       int umur = 18;
+       double tinggi = 161.5;
+       //Sequence \n digunakan untuk pindah ke garis atau baris selanjutnya
+       //Sedangkan sequence \t untuk spasi panjang(seperti Tab pada laptop atau PC) untuk merapikan teks agar sejajar.
+        System.out.println("Nama\t: "+nama+"\nAsal\t: "+asal+"\nProdi\t: "+prodi+"\nUmur\t: "+umur+"\nTinggi\t: "+tinggi);
         
     }
     
-}
+            }

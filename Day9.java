@@ -1,9 +1,11 @@
 public class SaldiJhy {
     public static void main(String[] args) {
-        //Deklarasi itu pemberian atau pengisisian pada tipe data dan variable, contoh tipe data String untuk tipe data dan nama,umur,dan kelas itu variabelnya:
+        //Deklarasi itu pemberian atau pengisisian pada tipe data dan variable,
+        //contoh tipe data String untuk tipe data dan nama,umur,dan kelas itu variabelnya:
         // jadi pada saat menginput tipe data dan varibel itu namanya deklarasi
        String nama,umur,kelas,peringkat;
-       //Inisialisasi itu pemberian nilai untuk tipe data dan variabelnya,seperti yang ada di bawah, nilainya adalah Rizaldi,18 tahun, A, dan informatika:
+       //Inisialisasi itu pemberian nilai untuk tipe data dan variabelnya,
+        //seperti yang ada di bawah, nilainya adalah Rizaldi,18 tahun, A, dan informatika:
        nama = "Rizaldi";
        umur = "18 tahun";
        kelas = "A";

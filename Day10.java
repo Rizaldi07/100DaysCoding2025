@@ -17,7 +17,7 @@ public class SaldiJhy {
         System.out.println("kelas\t\t: "+kelas);
         System.out.println("Tinggi\t\t: "+tinggi);
         System.out.println("BB\t\t: "+bb);
-        System.out.println("N0 Hp\t\t: "+No_Hp);
+        System.out.println("N0 Hp\t\t: +"+No_Hp);
         System.out.println("No Sepatu\t: "+No_Sepatu);
         System.out.println("Laki?\t\t: "+Laki);
         System.out.println("Saudara\t\t: "+Saudara);

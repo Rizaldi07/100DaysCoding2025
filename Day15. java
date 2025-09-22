@@ -1,11 +1,17 @@
+import java.util.Scanner;
 public class Saldijhy{
 public static void main(String[] args) {
-     int a = 20;
-     int b = 9;
-     int hasil = a+b;
-     int hasil1 = a-b;
-        System.out.println("Arimatika penjumlahan "+hasil);
-        System.out.println("Aritmatika pengurangan "+hasil1);  
+Scanner in = new  Scanner(System.in);
+        System.out.print("Masukkan angka pertama : ");
+        int no = in.nextInt();
+        System.out.print("Masukkan angka Kedua   : ");
+        int No = in.nextInt ();
+        System.out.println();
+        System.out.print("Aritmatika Penjumlahan\t= "+(no+No));
+        System.out.printf("\nAritmatika pengurangan\t= %d%n",(no-No));
+        
+   
+        
     }
     
 }

@@ -1,0 +1,11 @@
+public class Saldijhy{
+public static void main(String[] args) {
+     int a = 20;
+     int b = 9;
+     int hasil = a+b;
+     int hasil1 = a-b;
+        System.out.println("Arimatika penjumlahan "+hasil);
+        System.out.println("Aritmatika pengurangan "+hasil1);  
+    }
+    
+}

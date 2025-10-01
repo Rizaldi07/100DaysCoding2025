@@ -11,6 +11,6 @@ Scanner in = new Scanner(System.in);
         angka1--;
         System.out.print("Increment\t: "+angka);
         System.out.print("\nDecreament\t: "+angka1);
-        System.out.println("\n");
+        System.out.print("\n");
         }
 }

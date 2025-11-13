@@ -5,7 +5,7 @@ public class Main {
 	System.out.print("masukkan batas : ");
 	int a = in.nextInt();
 	int b = 1;
-	System.out.println();
+	
 	do{
 	    
 	    System.out.print("*");

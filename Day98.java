@@ -9,7 +9,7 @@ public class Main {
 		System.out.print("Deret Fibonacci : ");
 		for(int i=0;i<=batas;i++){
 		    System.out.print(a+" ");
-		    int c =a+b;a=b;b=c
+		    int c =a+b;a=b;b=c;
 		}
 	}
 }
